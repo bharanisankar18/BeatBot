@@ -1,0 +1,4 @@
+py-tgcalls==3.0.0
+kurigram==2.2.26
+yt-dlp>=2026.10.26
+python-dotenv==1.2.4
